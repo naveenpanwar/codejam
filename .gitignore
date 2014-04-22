@@ -1,0 +1,4 @@
+#gitignore for the codejam
+*.in
+*.pyc
+*.out
